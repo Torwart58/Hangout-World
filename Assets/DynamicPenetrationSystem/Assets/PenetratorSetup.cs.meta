@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: fe35652de46b69846b9743a3816f16e8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PersistentViewDataDictionary: {instanceID: 0}
+  - penetrator: {instanceID: 0}
+  - penetratorModel: {instanceID: 0}
+  - badScale: {fileID: 2800000, guid: 43c0a8d6322a7104cb4bbd9da7a72ea9, type: 3}
+  - badScale2: {fileID: 2800000, guid: d27381fc77a454a4a870a7129a8fcccc, type: 3}
+  - rootBoneDetected: {fileID: 2800000, guid: d2e63afaac247ba4b9ffe11d73644b82, type: 3}
+  - processingMaterial: {fileID: 2100000, guid: 779bbc24c823cf340a2b0e7ebac00900,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

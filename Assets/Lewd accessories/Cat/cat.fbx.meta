@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: a66748b2e29e46b4d8f032905b318da2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bag
+    100004: Body
+    100006: //RootNode
+    100008: IK
+    100010: LowerTube_001
+    100012: LowerTube_002
+    100014: LowerTube_003
+    100016: LowerTube_004
+    100018: LowerTube_005
+    100020: LowerTube_006
+    100022: LowerTube_007
+    100024: LowerTube_008
+    100026: LowerTube_009
+    100028: LowerTubeTip
+    100030: MiddleInterval
+    100032: UpperTube_001
+    100034: UpperTube_002
+    100036: UpperTube_003
+    100038: UpperTube_004
+    100040: UpperTube_005
+    100042: UpperTube_006
+    100044: UpperTube_007
+    100046: UpperTube_008
+    100048: UpperTube_009
+    400000: Armature
+    400002: Bag
+    400004: Body
+    400006: //RootNode
+    400008: IK
+    400010: LowerTube_001
+    400012: LowerTube_002
+    400014: LowerTube_003
+    400016: LowerTube_004
+    400018: LowerTube_005
+    400020: LowerTube_006
+    400022: LowerTube_007
+    400024: LowerTube_008
+    400026: LowerTube_009
+    400028: LowerTubeTip
+    400030: MiddleInterval
+    400032: UpperTube_001
+    400034: UpperTube_002
+    400036: UpperTube_003
+    400038: UpperTube_004
+    400040: UpperTube_005
+    400042: UpperTube_006
+    400044: UpperTube_007
+    400046: UpperTube_008
+    400048: UpperTube_009
+    2100000: "PowerTe\u30FCTeLe"
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "PowerTe\u30FCTeLe"
+    second: {fileID: 2100000, guid: 1fae395bb2af44048bee4fa8bf090f53, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

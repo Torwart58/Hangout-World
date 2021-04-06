@@ -1,0 +1,49 @@
+Thank you for your purchase!
+
+To use the provided Human Penis, simply drag it into the scene and attach it to your avatar! Scale the entire prefab to adjust to your liking!
+
+To set up an orifice, drag an orifice prefab into the scene, and attach it to your avatar. Then simply delete the gameobject inside marked "Delete me"!
+
+The Hole orifice is for when you don't want the penetrator to clip through, it does not show beyond the point of entry. Good for body orifices.
+
+The Ring orifice shows the penetrator past the point of entry. Good for hands or X-Rays or.. I dunno ghosts or something?
+
+To set up a custom penetrator:
+Drag either the Penetrator or Penetrator_DynamicBones prefab onto you armature and position it as you wish.
+
+Remove all bones and make sure the mesh is not a child component of an armature or another object in blender.
+
+Position your mesh in blender with the penetrator's tip facing toward the positive Z axis (This is straight up to the sky). It's origin should be in the center of the base. Everything above the origin will deform, and everything below will not.
+
+Apply all transforms with Object > Apply > All Transforms.
+
+Export to Unity. and Place it into the prefab with the default penetrator.
+
+Set its position and rotation to 0,0,0 and 0,0,0. (It should now point the same direction as the default penetrator)
+
+hide or delete the default penetrator.
+
+Set the scale to 1, 1, 1.
+
+It might be the wrong scale now! Simply select the asset and adjust it's Scale Factor until it is back to an appropriate size (You might need 0.01 or 100).
+
+Apply the Penetrator material to it.
+
+
+Adjust the length slider to the length of your penetrator (I suggest turning it to zero, and slowly raising it until the entire penetrator shows).
+
+When Modeling your own penetrator, it needs to be quite straight. Curvature can be added with the curvature sliders.
+
+COMMON ISSUES
+Scale is not 1, 1, 1:
+Set the scale to 1,1,1 and adjust it to your liking with the asset's Scale Factor option.
+
+It deforms really weird:
+Ensure the position and rotation of your model are 0,0,0 and 0,0,0.
+
+It is pointing the wrong direction:
+Go back to blender and ensure it is not bone animated or in an object hierarchy, and that the tip points toward positive Z (the sky)
+
+A whole lot of crazy stuff is happening:
+Maybe you updated from an old version and need to delete the Dynamic Penetration System folder and install the new one fresh.
+Maybe something I did not anticipate is happening, Send me a message and I will do my best to help!

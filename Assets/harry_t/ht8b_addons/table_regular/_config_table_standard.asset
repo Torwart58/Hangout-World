@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 371c2e310f7bbf24fa3046753087dcbf, type: 3}
+  m_Name: _config_table_standard
+  m_EditorClassIdentifier: 
+  _colourDefault: {r: 1, g: 1, b: 1, a: 1}
+  _colourFoul: {r: 1, g: 0, b: 0, a: 1}
+  _8ball_fabric_colour: {r: 0.44339612, g: 0.44339612, b: 0.44339612, a: 1}
+  _8ball_team_colour_0: {r: 0, g: 0.6348052, b: 1, a: 1}
+  _8ball_team_colour_1: {r: 1, g: 0.4002926, b: 0, a: 1}
+  _9ball_fabric_colour: {r: 0, g: 0.55501795, b: 1, a: 1}
+  _9ball_colours:
+  - {r: 1, g: 0.8235295, b: 0, a: 1}
+  - {r: 0, g: 0.46274513, b: 0.89019614, a: 1}
+  - {r: 0.74509805, g: 0.050980397, b: 0.07058824, a: 1}
+  - {r: 0.6691557, g: 0.32156867, b: 0.78431374, a: 1}
+  - {r: 1, g: 0.42352945, b: 0, a: 1}
+  - {r: 0.45098042, g: 0.8980393, b: 0.08627451, a: 1}
+  - {r: 0.5294118, g: 0.18823531, b: 0.2392157, a: 1}
+  - {r: 0, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0.8235295, b: 0, a: 1}
+  _4ball_fabric_colour: {r: 0.4056604, g: 0.4056604, b: 0.4056604, a: 1}
+  _4ball_team_colour_0: {r: 1, g: 1, b: 1, a: 1}
+  _4ball_team_colour_1: {r: 1, g: 0.812589, b: 0, a: 1}
+  _4ball_objective_colour: {r: 0.9716981, g: 0, b: 0, a: 1}
+  _src_ball_content: {fileID: 2800000, guid: db507d928e33d10428df362dff4c361e, type: 3}
+  _src_ball_spinmarkers: {fileID: 2800000, guid: d14bdee7753cb3b438a8a0d9533b2d5f,
+    type: 3}
+  _table_surface_mat: {fileID: 2100000, guid: 21e60f33a8dc79a4fa5197214aaf41a2, type: 2}
+  _ball_mat: {fileID: 2100000, guid: 397c2fcfe58ef54439ec7bed699754a9, type: 2}
+  _table_setup_prefab: {fileID: 100018, guid: 8d40007c06830104ba5daa1099ee2374, type: 3}
+  _collision_data_prefab: {fileID: 4442693687095724804, guid: 98cb835361570d142bf237c5b4efd26e,
+    type: 3}
+  _edge_gap: 0
+  cdata:
+    bInit: 1
+    k_TABLE_WIDTH: 1.06
+    k_TABLE_HEIGHT: 0.603
+    k_POCKET_RADIUS: 0.1
+    k_CUSHION_RADIUS: 0.043
+    k_INNER_RADIUS: 0.072
+    _cornerpocket: {x: 1.087, y: 0, z: 0.63}
+    _sidepocket: {x: 0, y: 0, z: 0.662}
+  quest_switch_data:
+    replacements:
+    - name: mballs (Standard / VRChat Mobile)
+      shown: 0
+      shader_default: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+      shader_quest: {fileID: 4800000, guid: 2dcd9e0568e0a6f45b92c60ba2eb16a0, type: 3}
+      materials:
+      - {fileID: 2100000, guid: 397c2fcfe58ef54439ec7bed699754a9, type: 2}
+    - name: table
+      shown: 0
+      shader_default: {fileID: 4800000, guid: 4d2b9e4ef22d6924993fad8181636136, type: 3}
+      shader_quest: {fileID: 4800000, guid: 6608d08bdaa82d44c90a91637a4cebf0, type: 3}
+      materials:
+      - {fileID: 2100000, guid: 28231051462747445b616dc8ecdd10f0, type: 2}
+    objs: []
