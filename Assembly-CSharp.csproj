@@ -134,6 +134,10 @@
      <Compile Include="Assets\Physical Interaction\Scripts\UdonComponentFinderHelper.cs" />
      <Compile Include="Assets\Resources\Foorack\Keypad\Keypad_UdonSharp\Keypad.cs" />
      <Compile Include="Assets\Resources\Foorack\Keypad\Keypad_UdonSharp\KeypadButton.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Scripts\LightProbeGroupControl.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Scripts\LightProbeVolume.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Scripts\TransformVolume.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Scripts\Volume.cs" />
      <Compile Include="Assets\Thry\SAO_Menu\Scripts\Buttons\MethodCall.cs" />
      <Compile Include="Assets\Thry\SAO_Menu\Scripts\Buttons\Teleport.cs" />
      <Compile Include="Assets\Thry\SAO_Menu\Scripts\Buttons\Toggle.cs" />
@@ -339,6 +343,7 @@
      <None Include="Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\VRCSDK\Sample Assets\Shaders\VRChat-Sprites-Default.shader" />
      <None Include="Assets\harry_t\ht8b_shaders\cuecenter.shader" />
+     <None Include="Assets\SimpleLightProbePlacer\README.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader" />
      <None Include="Assets\UdonToolkit\Demo\Demo Assets\Flight System\Flight System Floor.shader" />
      <None Include="Assets\Toybox\WarpStaff\Readme.txt" />

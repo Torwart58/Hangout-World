@@ -58,6 +58,8 @@
      <Compile Include="Assets\harry_t\Editor\ht8b_inspector.cs" />
      <Compile Include="Assets\Lyuma\BoxClip\Editor\BoxClipOriginEditor.cs" />
      <Compile Include="Assets\Lyuma\BoxClip\Editor\LyumaMeshUtility.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeGroupControlEditor.cs" />
+     <Compile Include="Assets\SimpleLightProbePlacer\Editor\LightProbeVolumeEditor.cs" />
      <Compile Include="Assets\UdonToolkit\Editor\CameraSystemSetup.cs" />
      <Compile Include="Assets\UdonToolkit\Editor\UTReorderable.cs" />
      <Compile Include="Assets\UdonToolkit\Editor\UTStartup.cs" />
